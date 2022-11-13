@@ -1,1 +1,1 @@
-# BTS-Binary-Search-Tree
+# BST-Binary-Search-Tree
